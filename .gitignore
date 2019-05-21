@@ -1,0 +1,8 @@
+*.log
+*.pkl
+*.csv
+db_config.py
+*.pyc
+dist/
+run.exe
+build/
